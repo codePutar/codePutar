@@ -1,59 +1,216 @@
-# Hi, I’m codePutar! 👋
+<h1 align="center">Hi 👋, I'm Ashutosh</h1>
 
-![coder-banner](https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
+<h3 align="center">
+AI Engineer • Full Stack Developer • Computer Vision Enthusiast
+</h3>
 
-Student • Enthusiastic Coder • Half Web Developer
-
-<img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=codePutar&color=brightgreen" />
-
-A curious student who loves building games in Java and practicing web development (HTML, CSS, JavaScript). I also code in C++ and Python — I learn by building small, useful, and fun projects.
-
----
-
-## ✨ Quick stats
-<p align="left">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=codePutar&show_icons=true&count_private=true&theme=tokyonight" />
-  &nbsp;
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codePutar&layout=compact&theme=tokyonight" />
+<p align="center">
+Building AI-powered sports technology, intelligent automation systems, and modern web applications.
 </p>
 
-<p align="left">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codePutar&theme=dark" />
-  &nbsp;
- <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=codePutar&theme=react-dark" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codePutar&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🛠️ Tech & Tools
-- Languages: C++, Java, Python, JavaScript
-- Web: HTML, CSS, JavaScript
-- Interests: Game development, interactive webpages, small automation tools
+# 🚀 About Me
+
+```python
+class Ashutosh:
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.specialization = [
+            "Computer Vision",
+            "Machine Learning",
+            "Full Stack Development",
+            "Sports Analytics"
+        ]
+
+        self.current_project = "Archery Coach Helper"
+
+        self.tech_stack = [
+            "Python",
+            "React",
+            "FastAPI",
+            "TensorFlow",
+            "JavaScript",
+            "MySQL"
+        ]
+
+    def mission(self):
+        return "Building AI systems that solve real-world problems."
+```
 
 ---
 
-## 🚀 Featured Projects
-- [Webpages_practices](https://github.com/codePutar/Webpages_practices) — my playground for web layouts, experiments, and small interactive pages  
-- [Learning_python](https://github.com/codePutar/Learning_python) — notes and mini-projects while learning Python  
-- [JARVIS_4.0](https://github.com/codePutar/JARVIS_4.0) — personal assistant/automation experiments  
-- [Game_python](https://github.com/codePutar/Game_python) — fun games built in Python  
-- [Portfolio](https://github.com/codePutar/Portfolio) — my personal portfolio site
+# 🎯 Current Focus
 
-Tip: Add GIFs/screenshots inside each repo README to make project pages more visual — it really brings projects to life.
-
----
-
-## 🧩 What I build
-- Java games and small engines — I enjoy making gameplay mechanics and simple UIs  
-- Interactive webpages and practice sites — experimenting with layouts, animations, and DOM interactivity  
-- Short utilities and learning projects in Python and C++
+- 🏹 Building AI-powered Archery Coach Helper
+- 🤖 Developing Computer Vision and Pose Estimation Systems
+- 🧠 Learning Advanced Machine Learning & AI
+- 🌐 Building Full Stack Applications
+- ⚡ Creating Intelligent Automation Tools
+- 🚀 Exploring Sports Technology
 
 ---
 
-## 📫 Find & connect
-- GitHub: https://github.com/codePutar
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,react,fastapi,nodejs,html,css,mysql,git,github,tensorflow,vscode" />
+
+</p>
 
 ---
 
-> “Code. Create. Repeat.”  
-Thanks for stopping by — explore my repos and say hi! 👋
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=codePutar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=codePutar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codePutar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codePutar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=codePutar&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🏹 Archery Coach Helper
+
+AI-powered archery biomechanics analysis platform featuring:
+
+- Real-time pose estimation
+- Personalized coaching
+- Shot stability analysis
+- Computer vision powered feedback
+- Performance analytics
+
+---
+
+## 🤖 JARVIS AI Assistant
+
+Desktop AI assistant featuring:
+
+- Voice Commands
+- Automation
+- Productivity Tools
+- System Integration
+
+---
+
+## 🎮 Game Development Projects
+
+- Python Games
+- Java Games
+- Interactive Experiences
+
+---
+
+## 🌐 Full Stack Applications
+
+- React Frontends
+- FastAPI Backends
+- Database Driven Applications
+- REST APIs
+
+---
+
+# 💻 Coding Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codePutar&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/codePutar/codePutar/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Computer Vision
+- MLOps
+- AI System Design
+- Cloud Deployment
+
+---
+
+# 🎯 Goals For 2026
+
+- Launch Archery Coach Helper
+- Build Production AI Systems
+- Contribute to Open Source
+- Master Computer Vision
+- Publish Technical Projects
+- Grow as an Engineer
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/codePutar">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+"Build. Learn. Improve. Repeat."
+
+</h3>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
