@@ -1,6 +1,6 @@
 # Hi, I’m codePutar! 👋
 
-![coder-banner](https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif)
+![coder-banner](https://github.com/rudrabarad/Gifs)
 
 Student • Enthusiastic Coder • Half Web Developer
 
