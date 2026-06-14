@@ -20,7 +20,7 @@ A curious student who loves building games in Java and practicing web developmen
 <p align="left">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codePutar&theme=dark" />
   &nbsp;
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codePutar&theme=react-dark" />
+ <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=codePutar&theme=react-dark" />
 </p>
 
 ---
